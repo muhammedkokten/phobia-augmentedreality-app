@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu_open.unity
+    guid: 3405c3a1ea5a2954581342a8c7556dfb
+  - enabled: 1
+    path: Assets/Scenes/menu_choise.unity
+    guid: adf328a1512681c4da8a997b2dd67cf1
+  - enabled: 1
+    path: Assets/Scenes/menu_settings.unity
+    guid: 863b3366262e9784d917087a9d47acf1
+  - enabled: 1
+    path: Assets/Scenes/spider.unity
+    guid: 66da4a2e236e9544f845494e432f6872
+  - enabled: 1
+    path: Assets/Scenes/dog.unity
+    guid: f4b256050aa25cf4e97d0d9b3ec1e6c1
+  - enabled: 1
+    path: Assets/Scenes/human.unity
+    guid: 9a6159fc8783cb84ca662c39f05563ba
+  - enabled: 1
+    path: Assets/Scenes/menu_credit.unity
+    guid: 56e564eb9f519a141a17a8892b86bb8b
+  - enabled: 1
+    path: Assets/Scenes/spider 1.unity
+    guid: da7e9340730d9b446b7151995bc4c008
+  - enabled: 1
+    path: Assets/Scenes/spider 2.unity
+    guid: f6b9a1ce8ff25064593da91fbe0f516b
+  - enabled: 1
+    path: Assets/Scenes/spider_levels.unity
+    guid: 4d11175dc9441a0478ff3a53c9b239d9
+  - enabled: 1
+    path: Assets/Scenes/spider_information.unity
+    guid: 432070ef6e26dbf4b85eca5c4c99b633
+  - enabled: 1
+    path: Assets/Scenes/dog 1.unity
+    guid: 84230d6de94de8144ba270b6a11df465
+  - enabled: 1
+    path: Assets/Scenes/dog 2.unity
+    guid: 49fb6a69e70888242ae1ec51de563196
+  - enabled: 1
+    path: Assets/Scenes/dog_info.unity
+    guid: 73e15426e502f0a4abdee99f12458ce4
+  - enabled: 1
+    path: Assets/Scenes/dog_levels.unity
+    guid: 1e8c3ff733e05264f95df31192db3fb5
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 89a6d18d3df8d3e4fa917b0f9a963bc0,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
+      type: 2}
